@@ -42,7 +42,7 @@ public class Customer {
 		this.cart = cart;
 	}
 	
-	
+	//checking6
 	
 	
 }
