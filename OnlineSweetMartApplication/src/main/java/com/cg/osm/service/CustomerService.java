@@ -1,9 +1,9 @@
 package com.cg.osm.service;
 
 import java.util.List;
+
 import com.cg.osm.entity.Customer;
 import com.cg.osm.error.CustomerNotFoundException;
-
 public interface CustomerService {
 
 	public Customer addCustomer(Customer Customer);

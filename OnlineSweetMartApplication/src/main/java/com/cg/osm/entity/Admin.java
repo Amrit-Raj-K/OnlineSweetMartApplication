@@ -1,5 +1,9 @@
 package com.cg.osm.entity;
 
+import javax.persistence.Entity;
+
+@Entity
+
 public class Admin {
 
 	private String id;
