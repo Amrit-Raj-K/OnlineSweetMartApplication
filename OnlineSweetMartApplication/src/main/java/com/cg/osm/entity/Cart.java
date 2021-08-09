@@ -9,6 +9,6 @@ public class Cart {
 	private int cartId;	
 	private int productCount;
 	private double total;
- //checking4
+ //checking5
 	
 }
